@@ -1,0 +1,14 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\Lab1\Lab1\obj\Debug\LabBasicConsole.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\Lab1\Lab1\obj\Debug\LabBasicConsole.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\LabBasicConsole\LabBasicConsole\bin\Debug\LabBasicConsole.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\LabBasicConsole\LabBasicConsole\bin\Debug\LabBasicConsole.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\LabBasicConsole\LabBasicConsole\bin\Debug\LabBasicConsole.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\LabBasicConsole\LabBasicConsole\obj\Debug\LabBasicConsole.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\LabBasicConsole\LabBasicConsole\obj\Debug\LabBasicConsole.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\LabBasicConsole\LabBasicConsole\obj\Debug\LabBasicConsole.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming I Fundamentals of C#\Assignment 1\LabBasicConsole\LabBasicConsole\obj\Debug\LabBasicConsole.pdb
