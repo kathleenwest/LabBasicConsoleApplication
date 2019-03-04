@@ -1,5 +1,7 @@
 # LabBasicConsoleApplication
 
+Project Blog Article: https://portfolio.katiegirl.net/2018/08/20/basic-console-application/
+
 Lab Basic Console Application 
 My Student Project: C# Programming I
 
